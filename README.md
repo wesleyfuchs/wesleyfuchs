@@ -1,5 +1,5 @@
 ### sup! I'm Wesley Fuchs 👋
-- 🌱 Atualmente estudando Python, Ruby, Data Science
+- 🌱 Atualmente estudando Python, Django, Data Science
 
 <div style="display: inline_block" align="center">
   <a href="https://github.com/wesleyfuchs">
