@@ -1,15 +1,13 @@
-### sup! I'm Wesley Fuchs 👋
-- 🌱 Atualmente estudando Python, Django, Data Science
+### <h1>sup! I'm Wesley Fuchs 👋</h1> 
+Atualmente estudando Python, Django, Data Science
 
-##
 
-<div style="display: inline_block" align="center">
+
+<div style="display: inline_block">
   <a href="https://github.com/wesleyfuchs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleyfuchs&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyfuchs&layout=compact&theme=dark"/>
+  <img  width="50%" src="https://github-readme-stats.vercel.app/api?username=wesleyfuchs&show_icons=true&theme=dracula"/>
+  <img  width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyfuchs&layout=compact&theme=dracula"/>
 </div>
-
-##
 
 <div style="display: inline_block" align="left"><br>
   <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
