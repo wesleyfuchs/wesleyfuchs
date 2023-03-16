@@ -1,5 +1,5 @@
 ### <h1>yey! I'm Wesley Fuchs 👋</h1> 
-Atualmente estudando Python, Django, Data Science
+Atualmente estudando Data Science
 
 
 
