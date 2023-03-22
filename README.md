@@ -1,4 +1,4 @@
-### <h1>yey! I'm Wesley Fuchs 👋</h1> 
+### <h1>yey! I'm Wesley 👋</h1> 
 Atualmente estudando Data Science
 
 
