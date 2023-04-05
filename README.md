@@ -1,32 +1,27 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img style="margin: 40px, 0px, 40px, 0px;" align="right" width="400px" src="https://user-images.githubusercontent.com/55562529/229982299-7bf31039-d1f5-4885-b865-8cb9541f083e.gif" />
 
-<p align="left"> 
-  Olá, meu nome eh Wesley atualmente estou estudando <strong>Data Science</strong>.<br>
+# eae, tudobom? 🌵 
+
+* ⚡ Meu nome eh Wesley tenho 24 anos </br>
+* 💻 Estudo Analise e Desenvolvimento de Sistemas na Uninter </br>
+
+## Skills 💡
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![Postgre](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## Stats 🚀
+
+<p> 
+  <img height="200px" src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wesleyfuchs&theme=onedark&hide_border=true' />
+  
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyfuchs&theme=onedark&hide_border=true' />
 </p>
 
-<p align="left">
-  🦄 Linguagens: 
-    <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-    <img align="center" alt="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-    <img align="center" alt="Pandas" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />            
-</p>
+## Pode me encontrar em: 🔍
 
-
-<p align="left">
-  💌 Pode me encontrar em:
-</p>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/wesley-fuchs/" alt="Linkedin">
-    <img align="center" alt="Linkedin" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
-</p>  
-
-<p  align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-  <br>
-
-  <p align="left">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=wesleyfuchs&show_icons=true&theme=blueberry&hide_border=true"/>
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyfuchs&layout=compact&hide_border=true&theme=blueberry"/>
-  </p>
-</p>
+<a href='https://www.linkedin.com/in/wesley-fuchs/'>
+  <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
