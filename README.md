@@ -16,8 +16,8 @@
 
 <div align="center">
   <p> 
-    <img height="200px" src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wesleyfuchs&theme=onedark&hide_border=true' />
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyfuchs&theme=onedark&hide_border=true' />
+    <img height="200px" src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wesleyfuchs&theme=dark&hide_border=true' />
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyfuchs&theme=dark&hide_border=true' />
   </p>
 <div>
 
