@@ -1,4 +1,4 @@
-<img style="margin: 40px, 0px, 40px, 0px;" align="right" width="400px" src="https://user-images.githubusercontent.com/55562529/229982299-7bf31039-d1f5-4885-b865-8cb9541f083e.gif" />
+<img style="margin: 40px, 0px, 40px, 0px;" align="right" width="400px" src="https://user-images.githubusercontent.com/55562529/230804670-ba4e1aa5-a956-4383-ab1e-01c30fe6b5cc.gif" />
 
 # eae, tudobom? 🌵 
 
@@ -14,14 +14,18 @@
 
 ## Stats 🚀
 
-<p> 
-  <img height="200px" src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wesleyfuchs&theme=onedark&hide_border=true' />
-  
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyfuchs&theme=onedark&hide_border=true' />
-</p>
+<div align="center">
+  <p> 
+    <img height="200px" src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wesleyfuchs&theme=onedark&hide_border=true' />
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyfuchs&theme=onedark&hide_border=true' />
+  </p>
+<div>
 
+<div align="left">  
+  
 ## Pode me encontrar em: 🔍
 
 <a href='https://www.linkedin.com/in/wesley-fuchs/'>
   <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+</div>
