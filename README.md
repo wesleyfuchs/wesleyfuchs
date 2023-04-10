@@ -3,7 +3,7 @@
 # eae, tudobom? 🌵 
 
 * ⚡ Meu nome eh Wesley tenho 24 anos </br>
-* 💻 Estudo Analise e Desenvolvimento de Sistemas na Uninter </br>
+* 💻 Estudo Analise e Desenvolvimento de Sistemas</br>
 
 ## Skills 💡
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
